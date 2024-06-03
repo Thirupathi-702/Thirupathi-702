@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thirupathi1842@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1aSyl6UUqC83g6Z122x6BsZwii-iU9hVU/view](https://drive.google.com/file/d/1aSyl6UUqC83g6Z122x6BsZwii-iU9hVU/view](https://drive.google.com/file/d/1NMBPR-PGV0r2qJ9LBVbp7ZsY1HCj82aF/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NMBPR-PGV0r2qJ9LBVbp7ZsY1HCj82aF/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
