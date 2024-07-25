@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirupathi-702&label=Profile%20views&color=0e75b6&style=flat" alt="thirupathi-702" /> </p>
 
-- 🔭 I’m currently working on **Memories**
 
 - 🌱 I’m currently learning **Nodejs,Express,Reactjs**
 
