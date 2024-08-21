@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thirupathi-portfolio.netlify.app/](https://thirupathi-portfolio.netlify.app/)
 
-- 💬 Ask me about **react,backend**
+- 💬 Ask me about **reactjs,Nodejs**
 
 - 📫 How to reach me **thirupathi1842@gmail.com**
 
